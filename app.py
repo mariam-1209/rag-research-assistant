@@ -676,9 +676,5 @@ if prompt:
 st.markdown("""
 <div class="main-footer">
   <div class="footer-credit">Built by <span>Mariam Noorani</span></div>
-  <div class="footer-links">
-    <div class="footer-link">Documentation</div>
-    <div class="footer-link">API Access</div>
-  </div>
 </div>
 """, unsafe_allow_html=True)
